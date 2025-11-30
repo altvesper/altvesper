@@ -31,4 +31,4 @@ I am currently on an intense self-learning journey to build a strong foundation 
 ### 🤝 Connect with Me
 
 [<img align="left" alt="Budi's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/altvesper)
-[<img align="left" alt="Budi's X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/x.svg" />](https://x.com/altvesper)
+[<img align="left" alt="Budi's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/altvesper)
