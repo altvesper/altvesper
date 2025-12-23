@@ -1,8 +1,8 @@
 ### Hi there, I'm Budi Darmawan! 👋
 
-I am an aspiring **Backend Engineer** undergoing a rigorous, self-directed education through **The Odin Project**. While currently a Management Student at Universitas Terbuka, I am pivoting fully into Tech to build scalable systems.
+I am an aspiring **Backend Engineer** fully committed to a rigorous, self-directed education through **The Odin Project**. I am dedicating my time to mastering Computer Science fundamentals and building scalable systems from the ground up.
 
-My focus is on **Deep Work** and mastering Computer Science fundamentals rather than taking shortcuts.
+My focus is on **Deep Work** and writing clean, efficient code—prioritizing logic over shortcuts.
 
 - 🔭 I’m currently working on: **Foundational Projects in Linux & Git**
 - 🌱 I’m currently learning: **JavaScript (ES6+), Algorithms, and System Architecture**
@@ -33,4 +33,12 @@ My focus is on **Deep Work** and mastering Computer Science fundamentals rather 
 
 ### 🤝 Connect with Me
 
-[<img align="left" alt="Budi's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/altvesper)
+<p align="left">
+  <a href="https://linkedin.com/in/altvesper" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Budi's LinkedIn" height="30" width="30" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/altvesper" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Budi's Twitter" height="30" width="30" />
+  </a>
+</p>
