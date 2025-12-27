@@ -1,4 +1,4 @@
-### Hi there, I'm Budi Darmawan! 👋
+### Hi there, I'm Ub 👋
 
 I am an aspiring **Backend Engineer** fully committed to a rigorous, self-directed education through **The Odin Project**. I am dedicating my time to mastering Computer Science fundamentals and building scalable systems from the ground up.
 
